@@ -61,7 +61,7 @@
 - 2024-06-18 · [[CSS] @media orientation: landscape / portrait](velog/CSS%C2%B7UI/CSS-media-orientation-landscape-portrait.md)
 - 2024-05-02 · [리액트 로컬 폰트 설정 (Global Style with styled-components )](velog/CSS%C2%B7UI/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A1%9C%EC%BB%AC-%ED%8F%B0%ED%8A%B8-%EC%84%A4%EC%A0%95-Global-Style-with-styled-components.md) _(React, fonts, global style, styled component)_
 - 2024-05-01 · [[React] styled-component 선택자 중첩 스타일링 방법](velog/CSS%C2%B7UI/styled-component-%EC%84%A0%ED%83%9D%EC%9E%90-%EC%A4%91%EC%B2%A9-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81-%EB%B0%A9%EB%B2%95.md) _(React, styled component, typescript)_
-- 2024-05-01 · [styled-components 사용1 (React,Typescript)](velog/CSS%C2%B7UI/styled-components-%EC%82%AC%EC%9A%A91-ReactTypescript.md) _(React, styled components, typescript)_
+- 2024-05-01 · [styled-components 사용1 (React,Typescript)](velog/CSS%C2%B7UI/styled-components-%EC%82%AC%EC%9A%A91-ReactTypescript.md) _(React, styled components, typescript)_
 - 2024-03-05 · [더보기/접기 버튼 구현](velog/CSS%C2%B7UI/%EB%8D%94%EB%B3%B4%EA%B8%B0%EC%A0%91%EA%B8%B0-%EB%B2%84%ED%8A%BC-%EA%B5%AC%ED%98%84.md) _(CSS, JSX, next.js, useRef)_
 - 2024-03-05 · [[React] Table에서 tbody만 스크롤](velog/CSS%C2%B7UI/Table-thead-%EA%B3%A0%EC%A0%95-tbody%EB%A7%8C-%EC%8A%A4%ED%81%AC%EB%A1%A4.md) _(CSS, Table, Thead, sticky, tbody scroll)_
 

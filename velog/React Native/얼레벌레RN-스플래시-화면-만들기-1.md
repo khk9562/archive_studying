@@ -4,8 +4,8 @@ tags: ["figma", "react native"]
 date: 2024-05-15
 velog_id: 7b6997b7-c41e-43e6-93a8-cda31ed9b957
 velog_url: https://velog.io/@steela/얼레벌레RN-스플래시-화면-만들기-1
-velog_updated: 2026-06-12T05:35:35.192Z
-synced_at: 2026-06-28
+velog_updated: 2026-07-01T21:20:57.975Z
+synced_at: 2026-07-02
 ---
 
 > 🔗 원본: [velog.io/@steela/얼레벌레RN-스플래시-화면-만들기-1](https://velog.io/@steela/얼레벌레RN-스플래시-화면-만들기-1) · 📅 2024-05-15
