@@ -4,8 +4,8 @@ tags: ["ASCII", "Python3", "아스키"]
 date: 2024-05-14
 velog_id: 310c22b9-5d40-4a42-b724-8145c003a908
 velog_url: https://velog.io/@steela/Python3-아스키코드-변환-함수
-velog_updated: 2026-06-30T02:18:36.850Z
-synced_at: 2026-06-30
+velog_updated: 2026-07-03T01:50:44.809Z
+synced_at: 2026-07-03
 ---
 
 > 🔗 원본: [velog.io/@steela/Python3-아스키코드-변환-함수](https://velog.io/@steela/Python3-아스키코드-변환-함수) · 📅 2024-05-14
