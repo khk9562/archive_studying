@@ -4,8 +4,8 @@ tags: ["Level.1", "Python3", "프로그래머스"]
 date: 2024-03-07
 velog_id: af06f6f8-6d83-40fd-b8d8-ffdf2e01f276
 velog_url: https://velog.io/@steela/문자열-내-p와-y의-개수
-velog_updated: 2026-06-14T02:34:51.464Z
-synced_at: 2026-06-28
+velog_updated: 2026-07-04T03:07:06.118Z
+synced_at: 2026-07-04
 ---
 
 > 🔗 원본: [velog.io/@steela/문자열-내-p와-y의-개수](https://velog.io/@steela/문자열-내-p와-y의-개수) · 📅 2024-03-07
