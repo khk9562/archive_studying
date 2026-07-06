@@ -1,11 +1,11 @@
 ---
-title: "[React] 구글 애널리틱스 연동 -1"
+title: "[React] 구글 애널리틱스 연동 -1"
 tags: ["Google Analytics", "React", "방문자수"]
 date: 2024-05-11
 velog_id: 706033d8-194d-4ef4-aa03-70a4a561727d
 velog_url: https://velog.io/@steela/React-구글-애널리틱스-연동-1
-velog_updated: 2026-06-07T06:35:12.428Z
-synced_at: 2026-06-28
+velog_updated: 2026-07-06T04:50:56.471Z
+synced_at: 2026-07-06
 ---
 
 > 🔗 원본: [velog.io/@steela/React-구글-애널리틱스-연동-1](https://velog.io/@steela/React-구글-애널리틱스-연동-1) · 📅 2024-05-11

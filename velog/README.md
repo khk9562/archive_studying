@@ -29,7 +29,7 @@
 
 - 2025-01-19 · [[React] useEffect와 fetch](velog/React/React-useEffect%EC%99%80-fetch.md) _(Fetch, React, useEffect)_
 - 2024-05-11 · [[React] 구글 애널리틱스 연동-2](velog/React/React-%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-%EB%8F%84%EC%9E%85-2.md) _(GA, Google Analytics, React)_
-- 2024-05-11 · [[React] 구글 애널리틱스 연동 -1](velog/React/React-%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-%EC%97%B0%EB%8F%99-1.md) _(Google Analytics, React, 방문자수)_
+- 2024-05-11 · [[React] 구글 애널리틱스 연동 -1](velog/React/React-%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-%EC%97%B0%EB%8F%99-1.md) _(Google Analytics, React, 방문자수)_
 - 2024-05-10 · [[React] 카카오톡 공유 기능 -2](velog/React/React-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EA%B3%B5%EC%9C%A0-%EA%B8%B0%EB%8A%A5-2.md) _(React, react 카카오톡 공유 4019 에러, 카카오톡 공유기능)_
 - 2024-05-09 · [[React] 카카오톡 공유 기능 - 1](velog/React/React-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EA%B3%B5%EC%9C%A0-%EA%B8%B0%EB%8A%A5-1.md) _(React, 카카오톡 공유)_
 - 2024-05-08 · [로컬 스토리지 저장 VS props 및 상수 저장](velog/React/%EB%A1%9C%EC%BB%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EC%A0%80%EC%9E%A5-VS-props-%EB%B0%8F-%EC%83%81%EC%88%98-%EC%A0%80%EC%9E%A5.md) _(Props, React, const, localstorage, troubleshootings)_
