@@ -4,8 +4,8 @@ tags: ["Web Storage", "cookie", "localstorage", "sessionStorage", "web"]
 date: 2024-03-05
 velog_id: 3c7d255e-c99e-44fe-9327-36c7d626a787
 velog_url: https://velog.io/@steela/localStorage-VS-sessionStorage-VS-cookie
-velog_updated: 2026-06-08T04:42:19.520Z
-synced_at: 2026-06-28
+velog_updated: 2026-07-07T23:49:32.442Z
+synced_at: 2026-07-08
 ---
 
 > 🔗 원본: [velog.io/@steela/localStorage-VS-sessionStorage-VS-cookie](https://velog.io/@steela/localStorage-VS-sessionStorage-VS-cookie) · 📅 2024-03-05

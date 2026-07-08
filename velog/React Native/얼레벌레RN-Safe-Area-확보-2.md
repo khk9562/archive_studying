@@ -4,8 +4,8 @@ tags: ["react-native-safe-area-context", "reactnative"]
 date: 2024-05-15
 velog_id: 13979317-2d56-4a0e-b7c2-db72b55cef70
 velog_url: https://velog.io/@steela/얼레벌레RN-Safe-Area-확보-2
-velog_updated: 2026-06-13T00:13:43.187Z
-synced_at: 2026-06-28
+velog_updated: 2026-07-07T19:38:09.700Z
+synced_at: 2026-07-08
 ---
 
 > 🔗 원본: [velog.io/@steela/얼레벌레RN-Safe-Area-확보-2](https://velog.io/@steela/얼레벌레RN-Safe-Area-확보-2) · 📅 2024-05-15
