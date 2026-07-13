@@ -4,8 +4,8 @@ tags: ["Assets", "next.js", "react.js"]
 date: 2025-09-16
 velog_id: 7e1a2d87-cb51-40b3-93db-d134410d276a
 velog_url: https://velog.io/@steela/Next.js-리액트와-구분되는-에셋-관리
-velog_updated: 2026-06-17T20:32:00.498Z
-synced_at: 2026-06-28
+velog_updated: 2026-07-13T10:16:37.061Z
+synced_at: 2026-07-13
 ---
 
 > 🔗 원본: [velog.io/@steela/Next.js-리액트와-구분되는-에셋-관리](https://velog.io/@steela/Next.js-리액트와-구분되는-에셋-관리) · 📅 2025-09-16

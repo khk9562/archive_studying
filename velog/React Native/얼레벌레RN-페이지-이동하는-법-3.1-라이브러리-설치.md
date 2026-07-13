@@ -4,8 +4,8 @@ tags: ["react native", "router"]
 date: 2024-05-15
 velog_id: 6528831e-78e5-45b0-bb55-c43bf384a279
 velog_url: https://velog.io/@steela/얼레벌레RN-페이지-이동하는-법-3.1-라이브러리-설치
-velog_updated: 2026-05-29T08:10:06.774Z
-synced_at: 2026-06-28
+velog_updated: 2026-07-13T10:16:40.098Z
+synced_at: 2026-07-13
 ---
 
 > 🔗 원본: [velog.io/@steela/얼레벌레RN-페이지-이동하는-법-3.1-라이브러리-설치](https://velog.io/@steela/얼레벌레RN-페이지-이동하는-법-3.1-라이브러리-설치) · 📅 2024-05-15

@@ -4,8 +4,8 @@ tags: ["JavaScript", "React", "typescript"]
 date: 2025-09-19
 velog_id: 4ecac836-ee4e-4855-a73d-3b65907dd344
 velog_url: https://velog.io/@steela/Typescript-typeof-연산자-유용하게-사용하는-법
-velog_updated: 2026-07-08T09:31:50.869Z
-synced_at: 2026-07-08
+velog_updated: 2026-07-13T10:16:39.241Z
+synced_at: 2026-07-13
 ---
 
 > 🔗 원본: [velog.io/@steela/Typescript-typeof-연산자-유용하게-사용하는-법](https://velog.io/@steela/Typescript-typeof-연산자-유용하게-사용하는-법) · 📅 2025-09-19

@@ -4,8 +4,8 @@ tags: ["FastAPI", "SQLAlchemy", "python"]
 date: 2025-01-21
 velog_id: d7a06795-7ebf-407c-a736-2d2e404bf9fe
 velog_url: https://velog.io/@steela/FastAPI-SQLAlchemy-객체-상태-관리-정리
-velog_updated: 2026-06-05T05:42:42.094Z
-synced_at: 2026-06-28
+velog_updated: 2026-07-13T10:16:37.843Z
+synced_at: 2026-07-13
 ---
 
 > 🔗 원본: [velog.io/@steela/FastAPI-SQLAlchemy-객체-상태-관리-정리](https://velog.io/@steela/FastAPI-SQLAlchemy-객체-상태-관리-정리) · 📅 2025-01-21
