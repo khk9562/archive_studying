@@ -4,8 +4,8 @@ tags: ["React", "styled components", "typescript"]
 date: 2024-05-01
 velog_id: 9433691c-720e-4fcd-a175-f4f52ec8d27e
 velog_url: https://velog.io/@steela/styled-components-사용1-ReactTypescript
-velog_updated: 2026-07-01T20:08:59.573Z
-synced_at: 2026-07-02
+velog_updated: 2026-07-16T22:13:07.314Z
+synced_at: 2026-07-17
 ---
 
 > 🔗 원본: [velog.io/@steela/styled-components-사용1-ReactTypescript](https://velog.io/@steela/styled-components-사용1-ReactTypescript) · 📅 2024-05-01
