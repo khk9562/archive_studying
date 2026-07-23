@@ -4,8 +4,8 @@ tags: ["vite", "webpack"]
 date: 2024-06-01
 velog_id: 9a20b135-8093-48c1-aae1-c8a529eb2789
 velog_url: https://velog.io/@steela/모듈-번들러-Webpack과-Vite
-velog_updated: 2026-07-21T15:53:52.386Z
-synced_at: 2026-07-22
+velog_updated: 2026-07-22T23:45:39.427Z
+synced_at: 2026-07-23
 ---
 
 > 🔗 원본: [velog.io/@steela/모듈-번들러-Webpack과-Vite](https://velog.io/@steela/모듈-번들러-Webpack과-Vite) · 📅 2024-06-01
