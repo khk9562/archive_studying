@@ -4,8 +4,8 @@ tags: ["Fetch", "React", "useEffect"]
 date: 2025-01-19
 velog_id: 05ade8f9-7c0a-4724-8467-d10757784910
 velog_url: https://velog.io/@steela/React-useEffect와-fetch
-velog_updated: 2026-07-13T10:16:36.917Z
-synced_at: 2026-07-13
+velog_updated: 2026-08-01T07:52:48.711Z
+synced_at: 2026-08-01
 ---
 
 > 🔗 원본: [velog.io/@steela/React-useEffect와-fetch](https://velog.io/@steela/React-useEffect와-fetch) · 📅 2025-01-19
