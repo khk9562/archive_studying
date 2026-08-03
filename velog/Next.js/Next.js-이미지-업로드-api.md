@@ -4,8 +4,8 @@ tags: ["arraybuffer", "crypto", "formData", "fs", "image upload api", "next.js",
 date: 2024-03-24
 velog_id: 3e6a945c-7230-4123-add7-973887af67c0
 velog_url: https://velog.io/@steela/Next.js-이미지-업로드-api
-velog_updated: 2026-07-31T06:32:35.862Z
-synced_at: 2026-07-31
+velog_updated: 2026-08-03T04:57:57.071Z
+synced_at: 2026-08-03
 ---
 
 > 🔗 원본: [velog.io/@steela/Next.js-이미지-업로드-api](https://velog.io/@steela/Next.js-이미지-업로드-api) · 📅 2024-03-24
