@@ -4,8 +4,8 @@ tags: ["React", "styled component", "typescript"]
 date: 2024-05-01
 velog_id: aeec5013-70b8-44b6-a2d1-e614edf60f8d
 velog_url: https://velog.io/@steela/styled-component-선택자-중첩-스타일링-방법
-velog_updated: 2026-08-05T07:14:27.986Z
-synced_at: 2026-08-05
+velog_updated: 2026-08-08T02:48:19.545Z
+synced_at: 2026-08-08
 ---
 
 > 🔗 원본: [velog.io/@steela/styled-component-선택자-중첩-스타일링-방법](https://velog.io/@steela/styled-component-선택자-중첩-스타일링-방법) · 📅 2024-05-01

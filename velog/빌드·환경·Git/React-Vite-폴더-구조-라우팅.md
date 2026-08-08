@@ -4,8 +4,8 @@ tags: ["React", "vite", "라우팅", "폴더구조", "폴더구조 라우팅"]
 date: 2024-06-11
 velog_id: 71e8dbe7-34df-4552-b59d-1cec195d171f
 velog_url: https://velog.io/@steela/React-Vite-폴더-구조-라우팅
-velog_updated: 2026-08-06T11:55:21.815Z
-synced_at: 2026-08-06
+velog_updated: 2026-08-08T08:22:31.123Z
+synced_at: 2026-08-08
 ---
 
 > 🔗 원본: [velog.io/@steela/React-Vite-폴더-구조-라우팅](https://velog.io/@steela/React-Vite-폴더-구조-라우팅) · 📅 2024-06-11
