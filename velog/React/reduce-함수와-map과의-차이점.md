@@ -4,8 +4,8 @@ tags: ["Map", "React", "reduce"]
 date: 2024-03-05
 velog_id: 93c5dc78-4688-4d7e-839d-c668ddc13310
 velog_url: https://velog.io/@steela/reduce-함수와-map과의-차이점
-velog_updated: 2026-06-24T05:44:08.440Z
-synced_at: 2026-06-28
+velog_updated: 2026-08-10T08:22:36.407Z
+synced_at: 2026-08-10
 ---
 
 > 🔗 원본: [velog.io/@steela/reduce-함수와-map과의-차이점](https://velog.io/@steela/reduce-함수와-map과의-차이점) · 📅 2024-03-05
