@@ -4,8 +4,8 @@ tags: ["npm"]
 date: 2024-06-01
 velog_id: c8f29338-e1af-4225-acc4-8b2ee3160304
 velog_url: https://velog.io/@steela/npm-install-옵션
-velog_updated: 2026-08-09T06:25:11.595Z
-synced_at: 2026-08-09
+velog_updated: 2026-08-12T14:02:51.879Z
+synced_at: 2026-08-13
 ---
 
 > 🔗 원본: [velog.io/@steela/npm-install-옵션](https://velog.io/@steela/npm-install-옵션) · 📅 2024-06-01
