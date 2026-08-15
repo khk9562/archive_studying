@@ -4,8 +4,8 @@ tags: ["Assets", "reactnative"]
 date: 2024-05-15
 velog_id: f9fea2a8-9e74-444e-95c5-68325bfd3961
 velog_url: https://velog.io/@steela/얼레벌레RN-정적-asset-파일-편하게-사용-2
-velog_updated: 2026-08-13T22:52:53.357Z
-synced_at: 2026-08-14
+velog_updated: 2026-08-15T05:01:23.772Z
+synced_at: 2026-08-15
 ---
 
 > 🔗 원본: [velog.io/@steela/얼레벌레RN-정적-asset-파일-편하게-사용-2](https://velog.io/@steela/얼레벌레RN-정적-asset-파일-편하게-사용-2) · 📅 2024-05-15
