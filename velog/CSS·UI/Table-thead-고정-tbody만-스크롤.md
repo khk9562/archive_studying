@@ -4,8 +4,8 @@ tags: ["CSS", "Table", "Thead", "sticky", "tbody scroll"]
 date: 2024-03-05
 velog_id: 0584d260-22fd-4359-8b81-7b3b03b0dbfd
 velog_url: https://velog.io/@steela/Table-thead-고정-tbody만-스크롤
-velog_updated: 2026-08-12T16:20:29.082Z
-synced_at: 2026-08-13
+velog_updated: 2026-08-18T04:20:08.539Z
+synced_at: 2026-08-18
 ---
 
 > 🔗 원본: [velog.io/@steela/Table-thead-고정-tbody만-스크롤](https://velog.io/@steela/Table-thead-고정-tbody만-스크롤) · 📅 2024-03-05
