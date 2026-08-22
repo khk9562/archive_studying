@@ -4,8 +4,8 @@ tags: ["fonts", "reactnative"]
 date: 2024-05-15
 velog_id: de5f6b94-9d2e-44ce-98b5-b202524569b9
 velog_url: https://velog.io/@steela/얼레벌레RN-로컬-폰트-세팅-2
-velog_updated: 2026-08-05T08:03:47.798Z
-synced_at: 2026-08-05
+velog_updated: 2026-08-22T09:05:17.726Z
+synced_at: 2026-08-22
 ---
 
 > 🔗 원본: [velog.io/@steela/얼레벌레RN-로컬-폰트-세팅-2](https://velog.io/@steela/얼레벌레RN-로컬-폰트-세팅-2) · 📅 2024-05-15
