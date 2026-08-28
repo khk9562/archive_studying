@@ -33,7 +33,7 @@ Notion의 `🌱 TIL` 데이터베이스를 **GitHub로 단방향 자동 동기�
 
 # 📒 Notion TIL
 
-총 **58**개의 글 · **12**개 폴더 · [📦 Velog 아카이브 →](velog/README.md)
+총 **60**개의 글 · **12**개 폴더 · [📦 Velog 아카이브 →](velog/README.md)
 
 ## React (11)
 
@@ -49,8 +49,10 @@ Notion의 `🌱 TIL` 데이터베이스를 **GitHub로 단방향 자동 동기�
 - 2024-06-11 · [[React]propTypes](til/React/%5BReact%5DpropTypes.md) _(React)_
 - 2024-06-10 · [생활코딩! React 리액트 프로그래밍](til/React/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9!-React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md) _(React)_
 
-## 백엔드·인프라 (8)
+## 백엔드·인프라 (10)
 
+- 2026-08-28 · [네트워크 기초 — 망·대역, NIC, BMC/iLO, iSCSI·NFS](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88-%E2%80%94-%EB%A7%9D%C2%B7%EB%8C%80%EC%97%AD,-NIC,-BMCiLO,-iSCSI%C2%B7NFS.md) _(CS)_
+- 2026-08-28 · [GPU 인프라 모니터링을 위한 네트워크 기초](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/GPU-%EC%9D%B8%ED%94%84%EB%9D%BC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88.md) _(CS)_
 - 2026-07-30 · [네트워크 장치 수집 프로토콜 — SNMP·gNMI·CLI·REST, 그리고 gRPC](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%A5%EC%B9%98-%EC%88%98%EC%A7%91-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%E2%80%94-SNMP%C2%B7gNMI%C2%B7CLI%C2%B7REST,-%EA%B7%B8%EB%A6%AC%EA%B3%A0-gRPC.md) _(CS)_
 - 2025-05-08 · [로그인 및 보안](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%8F-%EB%B3%B4%EC%95%88.md)
 - 2025-02-20 · [Web Socket](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/Web-Socket.md)

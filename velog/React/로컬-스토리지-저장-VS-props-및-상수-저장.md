@@ -4,8 +4,8 @@ tags: ["Props", "React", "const", "localstorage", "troubleshootings"]
 date: 2024-05-08
 velog_id: 9fb82295-aaed-4c87-bbcb-56b2f68abe3e
 velog_url: https://velog.io/@steela/로컬-스토리지-저장-VS-props-및-상수-저장
-velog_updated: 2026-06-01T12:29:58.790Z
-synced_at: 2026-06-28
+velog_updated: 2026-08-28T04:14:02.890Z
+synced_at: 2026-08-28
 ---
 
 > 🔗 원본: [velog.io/@steela/로컬-스토리지-저장-VS-props-및-상수-저장](https://velog.io/@steela/로컬-스토리지-저장-VS-props-및-상수-저장) · 📅 2024-05-08
