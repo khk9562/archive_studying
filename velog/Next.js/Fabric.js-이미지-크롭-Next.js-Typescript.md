@@ -4,8 +4,8 @@ tags: ["Next.js 13", "canvas", "crop", "fabric.js", "typescript"]
 date: 2024-03-24
 velog_id: c389429e-49ce-4abe-9a3c-2d4fa71abfd6
 velog_url: https://velog.io/@steela/Fabric.js-이미지-크롭-Next.js-Typescript
-velog_updated: 2026-08-12T01:34:19.216Z
-synced_at: 2026-08-12
+velog_updated: 2026-08-29T05:26:09.425Z
+synced_at: 2026-08-29
 ---
 
 > 🔗 원본: [velog.io/@steela/Fabric.js-이미지-크롭-Next.js-Typescript](https://velog.io/@steela/Fabric.js-이미지-크롭-Next.js-Typescript) · 📅 2024-03-24
