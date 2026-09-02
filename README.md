@@ -33,7 +33,21 @@ Notion의 `🌱 TIL` 데이터베이스를 **GitHub로 단방향 자동 동기�
 
 # 📒 Notion TIL
 
-총 **60**개의 글 · **12**개 폴더 · [📦 Velog 아카이브 →](velog/README.md)
+총 **61**개의 글 · **12**개 폴더 · [📦 Velog 아카이브 →](velog/README.md)
+
+## 백엔드·인프라 (11)
+
+- 2026-09-02 · [클라우드 인프라 기초: 쿠버네티스, IaaS/PaaS/SaaS, 컨테이너, 프로세스, 하이퍼바이저, OS](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B8%B0%EC%B4%88-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4,-IaaSPaaSSaaS,-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88,-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4,-%ED%95%98%EC%9D%B4%ED%8D%BC%EB%B0%94%EC%9D%B4%EC%A0%80,-OS.md) _(CS)_
+- 2026-08-28 · [네트워크 기초 — 망·대역, NIC, BMC/iLO, iSCSI·NFS](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88-%E2%80%94-%EB%A7%9D%C2%B7%EB%8C%80%EC%97%AD,-NIC,-BMCiLO,-iSCSI%C2%B7NFS.md) _(CS)_
+- 2026-08-28 · [GPU 인프라 모니터링을 위한 네트워크 기초](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/GPU-%EC%9D%B8%ED%94%84%EB%9D%BC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88.md) _(CS)_
+- 2026-07-30 · [네트워크 장치 수집 프로토콜 — SNMP·gNMI·CLI·REST, 그리고 gRPC](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%A5%EC%B9%98-%EC%88%98%EC%A7%91-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%E2%80%94-SNMP%C2%B7gNMI%C2%B7CLI%C2%B7REST,-%EA%B7%B8%EB%A6%AC%EA%B3%A0-gRPC.md) _(CS)_
+- 2025-05-08 · [로그인 및 보안](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%8F-%EB%B3%B4%EC%95%88.md)
+- 2025-02-20 · [Web Socket](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/Web-Socket.md)
+- 2024-12-10 · [백엔드](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%B0%B1%EC%97%94%EB%93%9C.md)
+- 2024-06-14 · [Nginx](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/Nginx.md)
+- 2024-06-14 · [Nginx + proxy + origin + CORS](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/Nginx-+-proxy-+-origin-+-CORS.md)
+- 2024-06-11 · [[Udemy] FastAPI101](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%5BUdemy%5D-FastAPI101.md) _(FastAPI)_
+- 2024-06-11 · [FastAPI Deep Dive](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/FastAPI-Deep-Dive.md) _(FastAPI)_
 
 ## React (11)
 
@@ -48,19 +62,6 @@ Notion의 `🌱 TIL` 데이터베이스를 **GitHub로 단방향 자동 동기�
 - 2024-06-11 · [[React] Axios로 API 통신](til/React/%5BReact%5D-Axios%EB%A1%9C-API-%ED%86%B5%EC%8B%A0.md) _(React)_
 - 2024-06-11 · [[React]propTypes](til/React/%5BReact%5DpropTypes.md) _(React)_
 - 2024-06-10 · [생활코딩! React 리액트 프로그래밍](til/React/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9!-React-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md) _(React)_
-
-## 백엔드·인프라 (10)
-
-- 2026-08-28 · [네트워크 기초 — 망·대역, NIC, BMC/iLO, iSCSI·NFS](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88-%E2%80%94-%EB%A7%9D%C2%B7%EB%8C%80%EC%97%AD,-NIC,-BMCiLO,-iSCSI%C2%B7NFS.md) _(CS)_
-- 2026-08-28 · [GPU 인프라 모니터링을 위한 네트워크 기초](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/GPU-%EC%9D%B8%ED%94%84%EB%9D%BC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88.md) _(CS)_
-- 2026-07-30 · [네트워크 장치 수집 프로토콜 — SNMP·gNMI·CLI·REST, 그리고 gRPC](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%A5%EC%B9%98-%EC%88%98%EC%A7%91-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-%E2%80%94-SNMP%C2%B7gNMI%C2%B7CLI%C2%B7REST,-%EA%B7%B8%EB%A6%AC%EA%B3%A0-gRPC.md) _(CS)_
-- 2025-05-08 · [로그인 및 보안](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B0%8F-%EB%B3%B4%EC%95%88.md)
-- 2025-02-20 · [Web Socket](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/Web-Socket.md)
-- 2024-12-10 · [백엔드](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%B0%B1%EC%97%94%EB%93%9C.md)
-- 2024-06-14 · [Nginx](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/Nginx.md)
-- 2024-06-14 · [Nginx + proxy + origin + CORS](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/Nginx-+-proxy-+-origin-+-CORS.md)
-- 2024-06-11 · [[Udemy] FastAPI101](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%5BUdemy%5D-FastAPI101.md) _(FastAPI)_
-- 2024-06-11 · [FastAPI Deep Dive](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/FastAPI-Deep-Dive.md) _(FastAPI)_
 
 ## 빌드·환경·Git (7)
 

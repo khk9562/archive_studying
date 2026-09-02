@@ -4,8 +4,8 @@ tags: ["React", "fonts", "global style", "styled component"]
 date: 2024-05-02
 velog_id: d20cf5d4-7bac-4b6f-9812-1f6177c73af8
 velog_url: https://velog.io/@steela/리액트-로컬-폰트-설정-Global-Style-with-styled-components
-velog_updated: 2026-08-29T06:56:06.693Z
-synced_at: 2026-08-29
+velog_updated: 2026-09-02T07:13:07.940Z
+synced_at: 2026-09-02
 ---
 
 > 🔗 원본: [velog.io/@steela/리액트-로컬-폰트-설정-Global-Style-with-styled-components](https://velog.io/@steela/리액트-로컬-폰트-설정-Global-Style-with-styled-components) · 📅 2024-05-02
