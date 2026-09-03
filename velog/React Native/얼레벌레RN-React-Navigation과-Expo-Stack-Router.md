@@ -4,8 +4,8 @@ tags: ["react native"]
 date: 2024-05-30
 velog_id: e0dca3e6-d6c4-4c21-a691-681d1d377b43
 velog_url: https://velog.io/@steela/얼레벌레RN-React-Navigation과-Expo-Stack-Router
-velog_updated: 2026-08-05T10:20:38.010Z
-synced_at: 2026-08-05
+velog_updated: 2026-09-03T07:30:20.532Z
+synced_at: 2026-09-03
 ---
 
 > 🔗 원본: [velog.io/@steela/얼레벌레RN-React-Navigation과-Expo-Stack-Router](https://velog.io/@steela/얼레벌레RN-React-Navigation과-Expo-Stack-Router) · 📅 2024-05-30
