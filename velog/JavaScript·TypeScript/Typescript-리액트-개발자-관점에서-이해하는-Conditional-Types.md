@@ -4,8 +4,8 @@ tags: ["Conditional Types", "JavaScript", "React", "typescript"]
 date: 2025-09-19
 velog_id: 3cef1185-d6f3-4d37-afad-66266d709c29
 velog_url: https://velog.io/@steela/Typescript-리액트-개발자-관점에서-이해하는-Conditional-Types
-velog_updated: 2026-08-28T19:21:07.205Z
-synced_at: 2026-08-28
+velog_updated: 2026-09-05T11:51:45.190Z
+synced_at: 2026-09-05
 ---
 
 > 🔗 원본: [velog.io/@steela/Typescript-리액트-개발자-관점에서-이해하는-Conditional-Types](https://velog.io/@steela/Typescript-리액트-개발자-관점에서-이해하는-Conditional-Types) · 📅 2025-09-19
