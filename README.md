@@ -33,10 +33,11 @@ Notion의 `🌱 TIL` 데이터베이스를 **GitHub로 단방향 자동 동기�
 
 # 📒 Notion TIL
 
-총 **61**개의 글 · **12**개 폴더 · [📦 Velog 아카이브 →](velog/README.md)
+총 **62**개의 글 · **12**개 폴더 · [📦 Velog 아카이브 →](velog/README.md)
 
-## 백엔드·인프라 (11)
+## 백엔드·인프라 (12)
 
+- 2026-09-17 · [Docker 이미지 번들 배포 때 Build Cache 와 Volume 에서 일어나는 일](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/Docker-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B2%88%EB%93%A4-%EB%B0%B0%ED%8F%AC-%EB%95%8C-Build-Cache-%EC%99%80-Volume-%EC%97%90%EC%84%9C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC.md) _(CS)_
 - 2026-09-02 · [클라우드 인프라 기초: 쿠버네티스, IaaS/PaaS/SaaS, 컨테이너, 프로세스, 하이퍼바이저, OS](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B8%B0%EC%B4%88-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4,-IaaSPaaSSaaS,-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88,-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4,-%ED%95%98%EC%9D%B4%ED%8D%BC%EB%B0%94%EC%9D%B4%EC%A0%80,-OS.md) _(CS)_
 - 2026-08-28 · [네트워크 기초 — 망·대역, NIC, BMC/iLO, iSCSI·NFS](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88-%E2%80%94-%EB%A7%9D%C2%B7%EB%8C%80%EC%97%AD,-NIC,-BMCiLO,-iSCSI%C2%B7NFS.md) _(CS)_
 - 2026-08-28 · [GPU 인프라 모니터링을 위한 네트워크 기초](til/%EB%B0%B1%EC%97%94%EB%93%9C%C2%B7%EC%9D%B8%ED%94%84%EB%9D%BC/GPU-%EC%9D%B8%ED%94%84%EB%9D%BC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88.md) _(CS)_
