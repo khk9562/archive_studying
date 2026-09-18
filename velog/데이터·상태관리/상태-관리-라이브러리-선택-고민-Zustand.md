@@ -4,8 +4,8 @@ tags: ["Context API", "Jotai", "Recoil", "redux-toolkit", "zustand"]
 date: 2024-06-16
 velog_id: 7cb84eeb-6acf-4a21-96fd-c69b7c24eed4
 velog_url: https://velog.io/@steela/상태-관리-라이브러리-선택-고민-Zustand
-velog_updated: 2026-08-29T21:55:52.386Z
-synced_at: 2026-08-30
+velog_updated: 2026-09-17T23:39:13.760Z
+synced_at: 2026-09-18
 ---
 
 > 🔗 원본: [velog.io/@steela/상태-관리-라이브러리-선택-고민-Zustand](https://velog.io/@steela/상태-관리-라이브러리-선택-고민-Zustand) · 📅 2024-06-16
