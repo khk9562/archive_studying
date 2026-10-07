@@ -4,8 +4,8 @@ tags: ["Next.js 13", "canvas", "fabric.js", "코드리팩토링"]
 date: 2024-03-18
 velog_id: 1649f0ef-34da-4924-bc94-fb6e2b8d9178
 velog_url: https://velog.io/@steela/캔버스-Fabric.js-코드-대폭-줄이기-성공
-velog_updated: 2026-10-05T01:53:00.551Z
-synced_at: 2026-10-05
+velog_updated: 2026-10-07T01:00:04.815Z
+synced_at: 2026-10-07
 ---
 
 > 🔗 원본: [velog.io/@steela/캔버스-Fabric.js-코드-대폭-줄이기-성공](https://velog.io/@steela/캔버스-Fabric.js-코드-대폭-줄이기-성공) · 📅 2024-03-18
