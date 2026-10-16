@@ -4,8 +4,8 @@ tags: ["Expo", "react native"]
 date: 2024-05-15
 velog_id: a070c1c1-9a5e-49a9-9d95-bf5abd943fad
 velog_url: https://velog.io/@steela/React-Native-얼레벌레-모바일-개발-시작-0
-velog_updated: 2026-10-11T10:01:15.560Z
-synced_at: 2026-10-11
+velog_updated: 2026-10-16T10:28:47.611Z
+synced_at: 2026-10-16
 ---
 
 > 🔗 원본: [velog.io/@steela/React-Native-얼레벌레-모바일-개발-시작-0](https://velog.io/@steela/React-Native-얼레벌레-모바일-개발-시작-0) · 📅 2024-05-15

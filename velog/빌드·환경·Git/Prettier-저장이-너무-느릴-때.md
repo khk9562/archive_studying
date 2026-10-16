@@ -4,8 +4,8 @@ tags: []
 date: 2024-03-05
 velog_id: 20288f64-e881-4a5e-8db2-d8ee2f03ceb2
 velog_url: https://velog.io/@steela/Prettier-저장이-너무-느릴-때
-velog_updated: 2026-10-03T14:15:00.087Z
-synced_at: 2026-10-03
+velog_updated: 2026-10-16T10:31:10.508Z
+synced_at: 2026-10-16
 ---
 
 > 🔗 원본: [velog.io/@steela/Prettier-저장이-너무-느릴-때](https://velog.io/@steela/Prettier-저장이-너무-느릴-때) · 📅 2024-03-05

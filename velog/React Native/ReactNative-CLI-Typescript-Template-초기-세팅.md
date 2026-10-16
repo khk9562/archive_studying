@@ -4,8 +4,8 @@ tags: ["Typescript Template", "cli", "reactnative"]
 date: 2024-06-16
 velog_id: 6f4550a8-b247-4e42-909b-6693bcf29068
 velog_url: https://velog.io/@steela/ReactNative-CLI-Typescript-Template-초기-세팅
-velog_updated: 2026-09-26T11:57:57.749Z
-synced_at: 2026-09-26
+velog_updated: 2026-10-16T10:28:44.397Z
+synced_at: 2026-10-16
 ---
 
 > 🔗 원본: [velog.io/@steela/ReactNative-CLI-Typescript-Template-초기-세팅](https://velog.io/@steela/ReactNative-CLI-Typescript-Template-초기-세팅) · 📅 2024-06-16

@@ -4,8 +4,8 @@ tags: ["git", "github"]
 date: 2024-03-26
 velog_id: c67d466a-52a0-480c-9200-74eb2d205c77
 velog_url: https://velog.io/@steela/git-push-중-에러-this-is-larger-than-GitHubs-recommended-maximum-file-size-of-50.00-MB
-velog_updated: 2026-10-07T08:08:02.834Z
-synced_at: 2026-10-07
+velog_updated: 2026-10-16T10:28:21.932Z
+synced_at: 2026-10-16
 ---
 
 > 🔗 원본: [velog.io/@steela/git-push-중-에러-this-is-larger-than-GitHubs-recommended-maximum-file-size-of-50.00-MB](https://velog.io/@steela/git-push-중-에러-this-is-larger-than-GitHubs-recommended-maximum-file-size-of-50.00-MB) · 📅 2024-03-26
