@@ -4,8 +4,8 @@ tags: []
 date: 2024-06-18
 velog_id: b12092ea-b4d7-4f3f-8974-52007c72c632
 velog_url: https://velog.io/@steela/CSS-media-orientation-landscape-portrait
-velog_updated: 2026-10-17T06:23:38.159Z
-synced_at: 2026-10-17
+velog_updated: 2026-10-27T09:38:21.206Z
+synced_at: 2026-10-27
 ---
 
 > 🔗 원본: [velog.io/@steela/CSS-media-orientation-landscape-portrait](https://velog.io/@steela/CSS-media-orientation-landscape-portrait) · 📅 2024-06-18
