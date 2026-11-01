@@ -4,8 +4,8 @@ tags: ["FastAPI", "Python3", "백엔드 역할"]
 date: 2024-06-13
 velog_id: 64382a6b-ed28-4712-9865-9076c98eeba3
 velog_url: https://velog.io/@steela/Python-FastAPI-백엔드-기초적인-역할-정리
-velog_updated: 2026-10-21T12:13:35.505Z
-synced_at: 2026-10-21
+velog_updated: 2026-10-31T19:27:41.438Z
+synced_at: 2026-11-01
 ---
 
 > 🔗 원본: [velog.io/@steela/Python-FastAPI-백엔드-기초적인-역할-정리](https://velog.io/@steela/Python-FastAPI-백엔드-기초적인-역할-정리) · 📅 2024-06-13
