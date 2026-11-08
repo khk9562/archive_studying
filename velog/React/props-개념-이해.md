@@ -4,8 +4,8 @@ tags: ["Props", "React"]
 date: 2024-03-05
 velog_id: 2f5d8198-15c8-4cc5-8be2-a4dda202be40
 velog_url: https://velog.io/@steela/props-개념-이해
-velog_updated: 2026-10-27T00:28:25.761Z
-synced_at: 2026-10-27
+velog_updated: 2026-11-06T03:51:08.534Z
+synced_at: 2026-11-08
 ---
 
 > 🔗 원본: [velog.io/@steela/props-개념-이해](https://velog.io/@steela/props-개념-이해) · 📅 2024-03-05

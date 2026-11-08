@@ -4,8 +4,8 @@ tags: ["React", "카카오톡 공유"]
 date: 2024-05-09
 velog_id: 5d6bb89a-b1bb-4ae8-8241-d8ac0575d54c
 velog_url: https://velog.io/@steela/React-카카오톡-공유-기능-1
-velog_updated: 2026-10-28T12:42:25.311Z
-synced_at: 2026-10-28
+velog_updated: 2026-11-07T06:32:07.191Z
+synced_at: 2026-11-08
 ---
 
 > 🔗 원본: [velog.io/@steela/React-카카오톡-공유-기능-1](https://velog.io/@steela/React-카카오톡-공유-기능-1) · 📅 2024-05-09
