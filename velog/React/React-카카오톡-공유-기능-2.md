@@ -4,8 +4,8 @@ tags: ["React", "react 카카오톡 공유 4019 에러", "카카오톡 공유기
 date: 2024-05-10
 velog_id: 52d1085e-1d3d-4b9e-a1ba-7c9fa62c11d7
 velog_url: https://velog.io/@steela/React-카카오톡-공유-기능-2
-velog_updated: 2026-11-09T15:09:16.238Z
-synced_at: 2026-11-15
+velog_updated: 2026-11-20T04:19:31.957Z
+synced_at: 2026-11-22
 ---
 
 > 🔗 원본: [velog.io/@steela/React-카카오톡-공유-기능-2](https://velog.io/@steela/React-카카오톡-공유-기능-2) · 📅 2024-05-10

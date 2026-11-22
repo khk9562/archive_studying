@@ -4,8 +4,8 @@ tags: ["React", "react router dom", "typescript"]
 date: 2024-05-01
 velog_id: 878e0d66-cebf-448b-a005-5de14393bfaf
 velog_url: https://velog.io/@steela/React-Typescript-개발환경-세팅하기-react-router-dom
-velog_updated: 2026-11-04T06:46:04.310Z
-synced_at: 2026-11-08
+velog_updated: 2026-11-20T18:42:02.578Z
+synced_at: 2026-11-22
 ---
 
 > 🔗 원본: [velog.io/@steela/React-Typescript-개발환경-세팅하기-react-router-dom](https://velog.io/@steela/React-Typescript-개발환경-세팅하기-react-router-dom) · 📅 2024-05-01

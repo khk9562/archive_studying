@@ -4,8 +4,8 @@ tags: ["JavaScript", "React", "Template Literal Types", "typescript"]
 date: 2025-09-19
 velog_id: a51bcc76-9e08-434f-8023-874bd259a84e
 velog_url: https://velog.io/@steela/Typescript-리액트-개발자-관점에서-이해하는-Template-Literal-Types
-velog_updated: 2026-11-09T01:09:09.784Z
-synced_at: 2026-11-15
+velog_updated: 2026-11-20T16:14:54.964Z
+synced_at: 2026-11-22
 ---
 
 > 🔗 원본: [velog.io/@steela/Typescript-리액트-개발자-관점에서-이해하는-Template-Literal-Types](https://velog.io/@steela/Typescript-리액트-개발자-관점에서-이해하는-Template-Literal-Types) · 📅 2025-09-19
